@@ -1,0 +1,33 @@
+/* Example styling of a h1 element */
+body {
+  background-color: #ffffe0;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size: 100%;
+	text-align: center; 
+	width: 80%;
+	max-width: 970px;
+	min-width: 550px;
+	margin: 10px auto 10px auto;
+	padding: 20px;}
+ 
+h1 {
+  color: blueviolet;
+  font-size: 200%;
+  text-align: center;
+}
+
+p.definition {
+  font-style: italic;
+  text-align: center;
+  ;
+}
+
+ul {
+  text-align:left;
+}
+
+p.links {
+  text-align: left;
+  font-size: 120%;
+  font-weight: bold;
+}
